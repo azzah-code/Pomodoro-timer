@@ -1,2 +1,2 @@
-# Pomodoro-timer-A
+# Pomodoro-timer
 sedang belajar
