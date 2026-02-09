@@ -1,2 +1,2 @@
 # Pomodoro-timer
-sedang belajar
+pomodoro timer ini berbasis python
